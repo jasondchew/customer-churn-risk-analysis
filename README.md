@@ -1,6 +1,6 @@
 # Customer Churn Risk Analysis
 
-Analyzed 2,800-row dataset of unique customers exhibiing overall churn rate of 57%. Extracted key drivers of churn and provided actionable insights for businesses.
+Investigated 2,800-row dataset of unique customers exhibiing overall churn rate of 57%. Extracted key drivers of churn and provided actionable insights for businesses.
 
 ## Files
 - [Customer Churn Risk Analysis Storyboard on Tableau Public](link coming soon)
