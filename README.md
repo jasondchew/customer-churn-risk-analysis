@@ -13,4 +13,4 @@ Investigated 2,800-row dataset of unique customers exhibiing overall churn rate 
 
 ## How to View
 - Open Tableau storyboard in Tableau Desktop or Tableau Public
-- Open Jupyter notebook in any Python environment
+- Open Jupyter notebook in Jupyter Lab, VS Code, or Google Colab
