@@ -5,7 +5,7 @@ Investigated 2,800-row dataset of unique customers exhibiing overall churn rate 
 ## Key Insights
 - Usage, recency, payment failures, and support tickets are key drivers of churn
 - High-risk customers are 3x more likely to churn than low-risk customers
-- Billing and product friction increase the likelihood of churn
+- Billing and product friction increase the likelihood of churn the most
 
 ## Business Recommendations
 - Incentivize high usuage in early stages of subscription
