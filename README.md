@@ -16,7 +16,7 @@ Investigated 2,800-row dataset of unique customers exhibiing overall churn rate 
 - Tableau, Excel, Python
 - Exploratory Data Analysis (EDA)
 - Logistic regression coefficient chart
-- Churn risk segements 
+- Churn risk segments 
 
 ## Files
 - [Customer Churn Risk Analysis Storyboard on Tableau Public](https://public.tableau.com/views/CustomerChurnRiskAnalysis_JasonChew/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
