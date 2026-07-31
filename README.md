@@ -1,6 +1,6 @@
 # Customer Churn Risk Analysis
 
-Investigated 2,800-row dataset of unique customers exhibiing overall churn rate of 57%. Extracted key drivers of churn and provided actionable insights in order to reduce churn and maximize retention. 
+Investigated a 2,800-row dataset of unique customers exhibiting an overall churn rate of 57%. Extracted key drivers of churn and provided actionable insights in order to reduce churn and maximize retention. 
 
 ## Key Insights
 - Usage, recency, payment failures, and support tickets are key drivers of churn
@@ -8,7 +8,7 @@ Investigated 2,800-row dataset of unique customers exhibiing overall churn rate 
 - Billing and product friction increase the likelihood of churn the most
 
 ## Business Recommendations
-- Incentivize high usuage in early stages of subscription
+- Incentivize high usage in early stages of subscription
 - Prevent customers from exceeding 30-day inactivity threshold
 - Prioritize outreach for customers who experience payment failure and 3+ support tickets
 
@@ -20,6 +20,7 @@ Investigated 2,800-row dataset of unique customers exhibiing overall churn rate 
 
 ## Files
 - [Customer Churn Risk Analysis Storyboard on Tableau Public](https://public.tableau.com/views/CustomerChurnRiskAnalysis_JasonChew/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Tableau Workbook (.twbx)](Customer%20Churn%20Risk%20Analysis_Jason%20Chew%20%28V2%29.twbx)
 - [Jupyter Notebook with Logistic Regression Coefficient Chart](churn_analysis_logistic_reg.ipynb)
 - [Customer Subscription Churn Dataset](https://www.kaggle.com/datasets/jayjoshi37/customer-subscription-churn-and-usage-patterns) Source: Kaggle
 
