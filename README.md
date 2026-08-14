@@ -1,16 +1,16 @@
 # Customer Churn Risk Analysis
 
-Investigated a 2,800-row dataset of unique customers exhibiting an overall churn rate of 57%. Extracted key drivers of churn and provided actionable insights in order to reduce churn and maximize retention. 
+Investigated a 2,800-row dataset of unique customers exhibiting an overall churn rate of 57%. Extracted key predictors of churn and provided actionable insights in order to reduce churn and maximize retention. 
 
 ## Key Insights
-- Usage, recency, payment failures, and support tickets are key drivers of churn
-- High-risk customers are 3x more likely to churn than low-risk customers
+- Usage, recency, payment failures, and support tickets are the strongest predictors of churn
+- High-risk customers are 2.6x more likely to churn than low-risk customers
 - Billing and product friction increase the likelihood of churn the most
 
 ## Business Recommendations
 - Incentivize high usage in early stages of subscription
 - Prevent customers from exceeding 30-day inactivity threshold
-- Prioritize outreach for customers who experience payment failure and 3+ support tickets
+- Prioritize outreach for customers who experience payment failure and 5+ support tickets
 
 ## Tools/Strategies Used
 - Tableau, Excel, Python
